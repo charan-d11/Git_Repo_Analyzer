@@ -1,0 +1,11 @@
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-groq==0.3.8
+faiss-cpu
+flask
+python-dotenv
+langchain-huggingface==0.3.1
+huggingface_hub
+pypdf
+sentence-transformers==5.1.1
+gitpython
